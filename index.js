@@ -5,7 +5,7 @@ const app = express();
 const port = 3000;
 
 app.get("/status/pve", (req, res) => {
-  res.statusCode(200).json({ status: "ok" });
+  res.statusCode = 200
   res.send("ok");
 });
 
