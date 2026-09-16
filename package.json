@@ -1,0 +1,24 @@
+{
+  "name": "status-api",
+  "version": "1.0.0",
+  "description": "really stupid api thing for telling betterstack if a thing is up",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p1lotdev/status-api.git"
+  },
+  "keywords": [],
+  "author": "p1lotdev",
+  "license": "CC0 1.0 Universal",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/p1lotdev/status-api/issues"
+  },
+  "homepage": "https://github.com/p1lotdev/status-api#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
